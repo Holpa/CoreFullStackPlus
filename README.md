@@ -14,7 +14,7 @@
 # Dependencies
 
     Runtime: .NET 8 SDK https://dotnet.microsoft.com/en-us/download
-    IDE: Visual Studio (Prefered)
+    IDE: Visual Studio (Preferred)
         ms-dotnettools.vscode-dotnet-pack
         ms-dotnettools.vscode-dotnet-runtime
         ms-dotnettools.csharp
@@ -35,7 +35,7 @@
         dotnet build
 
     for the DB connection you can simply have the DB connection in appsettings.json OR
-    store it locally in the machine as secret (Reccomended)
+    store it locally in the machine as secret (Recommended)
     more insight about Dependency Injection: https://learn.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-8.0
 
     dotnet user-secrets init
