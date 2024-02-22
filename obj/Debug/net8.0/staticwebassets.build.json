@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "BSk0pcyWPjPAqVmc71O7TBu9a8vdHSz1jQ3y3kNbmAo=",
+  "Source": "CoreFullStackPlus",
+  "BasePath": "_content/CoreFullStackPlus",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CoreFullStackPlus\\wwwroot",
+      "Source": "CoreFullStackPlus",
+      "ContentRoot": "C:\\Users\\Work\\source\\repos\\CoreFullStackPlus\\wwwroot\\",
+      "BasePath": "_content/CoreFullStackPlus",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Work\\source\\repos\\CoreFullStackPlus\\wwwroot\\index.html",
+      "SourceId": "CoreFullStackPlus",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Work\\source\\repos\\CoreFullStackPlus\\wwwroot\\",
+      "BasePath": "_content/CoreFullStackPlus",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
