@@ -32,3 +32,4 @@ C:\Users\Work\source\repos\CoreFullStackPlus\obj\Debug\net8.0\CoreFullStackPlus.
 C:\Users\Work\source\repos\CoreFullStackPlus\obj\Debug\net8.0\CoreFullStackPlus.genruntimeconfig.cache
 C:\Users\Work\source\repos\CoreFullStackPlus\obj\Debug\net8.0\ref\CoreFullStackPlus.dll
 C:\Users\Work\source\repos\CoreFullStackPlus\bin\Debug\net8.0\CoreFullStackPlus.staticwebassets.runtime.json
+C:\Users\Work\source\repos\CoreFullStackPlus\obj\Debug\net8.0\CoreFullStackPlus.sourcelink.json
