@@ -4,7 +4,7 @@
 
 # Purpose/Why:
 
-    Solve helps to start a full stack websites including background service via using simple commands
+    Solves the issue to start a full stack websites including background services via using simple commands
 
 # TechStack:
 
