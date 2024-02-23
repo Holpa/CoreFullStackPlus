@@ -1,5 +1,3 @@
-# CoreFullStackPlus
-
  **CoreFullStackPlus** This Application is a full package to start a full fledge website
 
 # Purpose/Why:
