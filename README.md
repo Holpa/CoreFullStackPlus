@@ -1,4 +1,4 @@
-# Full Stack Application Plus
+# CoreFullStackPlus
 
     This Application is a full package to start a full fledge website
 
